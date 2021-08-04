@@ -1,6 +1,6 @@
 # _Arlo's Blog_
 
-#### _This is a web page detailing the daily life of a dog named Arlo_
+#### _This is a blog written by Arlo the dog that keeps his fans up to date on his daily musings_
 
 #### By _**Ben Dunham**_
 
@@ -9,25 +9,26 @@
 * _HTML_
 * _CSS_
 
+
+
 ## Description
 
-_This web page will introduce Arlo the dog and allow daily updates from him about his favorite things. He likes to use lists and paragraphes to tell his story_
+_Arlo is a busy puppy and his blog keeps you updated on his favorite toys/activites and any other daily events he attends. He utilizes CSS to style his pages and loves to put things in lists_
 
 ## Setup/Installation Requirements
 
-* _Clone the repo down to your desktop using the ``git clone`` terminal command_
-* _Open in VS Code running the ``code .`` command_
-
+* _CLone this project to your desktop using the command ``git clone``_
+* _Open index.html in your browser my double-clicking the page icon_
 
 ## Known Bugs
 
 * _No known bugs_
-
-
 ## License
 
-_MIT_
+[MIT](https://opensource.org/licenses/MIT)
+
 
 ## Contact Information
 
+Ben Dunham
 _bendunhampdx@gmail.com_
