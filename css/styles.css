@@ -4,13 +4,19 @@ body {
 
 h1 {
   text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 p {
   text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 h2 {
   color: brown;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 ol {
